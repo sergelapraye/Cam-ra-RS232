@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/09/27 11:18:41.000.263,=C:\Users\Antoine\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2019/09/27 11:18:41.000.278,=C:\Users\Antoine\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2019/09/27 11:19:49.000.337,C:\Users\Antoine\Documents\Embarcadero\Studio\Projets\Unit1.dfm=C:\Users\Antoine\Documents\Dev c++ apllication hercule\appli.dfm</Transaction>
+    <Transaction>2019/09/27 11:19:49.000.337,C:\Users\Antoine\Documents\Embarcadero\Studio\Projets\Unit1.h=C:\Users\Antoine\Documents\Dev c++ apllication hercule\appli.h</Transaction>
+    <Transaction>2019/09/27 11:19:49.000.337,C:\Users\Antoine\Documents\Embarcadero\Studio\Projets\Unit1.cpp=C:\Users\Antoine\Documents\Dev c++ apllication hercule\appli.cpp</Transaction>
+    <Transaction>2019/09/27 15:33:48.000.802,C:\Users\Antoine\Documents\Embarcadero\Studio\Projets\Project1PCH1.h=C:\Users\Antoine\Documents\Dev c++ apllication hercule\Project1PCH1.h</Transaction>
+    <Transaction>2019/09/27 15:33:49.000.506,C:\Users\Antoine\Documents\Embarcadero\Studio\Projets\Project1.cbproj=C:\Users\Antoine\Documents\Dev c++ apllication hercule\Project1.cbproj</Transaction>
+    <Transaction>2019/10/01 14:50:31.000.511,=C:\Users\Antoine\Documents\Dev c++ apllication hercule\Unit1.cpp</Transaction>
+    <Transaction>2019/10/01 14:50:39.000.703,C:\Users\Antoine\Documents\Dev c++ apllication hercule\RS232.cpp=C:\Users\Antoine\Documents\Dev c++ apllication hercule\Unit1.cpp</Transaction>
+    <Transaction>2019/10/01 14:50:39.000.703,C:\Users\Antoine\Documents\Dev c++ apllication hercule\RS232.h=C:\Users\Antoine\Documents\Dev c++ apllication hercule\Unit1.h</Transaction>
+    <Transaction>2019/10/04 15:39:35.000.323,C:\Users\EnzoC\Desktop\Trame C++\appli.h=C:\Users\EnzoC\Desktop\Trame C++\trame.h</Transaction>
+    <Transaction>2019/10/04 15:39:35.000.323,C:\Users\EnzoC\Desktop\Trame C++\appli.cpp=C:\Users\EnzoC\Desktop\Trame C++\trame.cpp</Transaction>
+    <Transaction>2019/10/04 15:39:35.000.323,C:\Users\EnzoC\Desktop\Trame C++\appli.dfm=C:\Users\EnzoC\Desktop\Trame C++\trame.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
